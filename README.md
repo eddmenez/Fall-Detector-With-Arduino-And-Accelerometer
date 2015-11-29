@@ -4,9 +4,8 @@ Implementation of a fall detector using an Arduino and an accelerometer.
 
 Graduation project for the Bachelor of Electrical Engineering at the Rio de Janeiro State University.
 
-Collaborators: Edgar Douglas and Paulo Victor
-Orientation: Lisandro Lovisolo and Michel Tcheou
+Developers: Edgar Douglas and Paulo Victor
+Orientation: Dr. Lisandro Lovisolo and Dr. Michel Tcheou
 
 Presented on September 2015
 
-@local
